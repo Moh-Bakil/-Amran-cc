@@ -20,7 +20,7 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/hameed2010/Amran-cc.git
+git clone https://github.com/Moh-Bakil/-Amran-cc
 ```
 ```
 cd Amran-cc
